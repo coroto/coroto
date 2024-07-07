@@ -1,6 +1,10 @@
 <h1 align='center'>Hi there  👋, I'm Juan Carlos Mellizo🧑‍💻</h1>
 <p align='center'>
-   Sofware Engineer, well-versed in technologies like Javascript, React, NodeJS, Google Cloud Platform, and more. I create awesome solutions that help make people's daily lives easier, I continuously pursue more skills and I share my knowledge a cross blogs and communities.
+  Innovative Full-Stack Software Engineer and AI enthusiast with 8+ years of experience transforming complex challenges into efficient, scalable solutions. I specialize in bridging legacy systems with cutting-edge technologies, driving digital transformation in high-stakes environments like banking and fintech. My approach combines technical expertise with a lean, user-centered mindset, consistently delivering products that exceed business needs and enhance user experiences. 
+
+As a lifelong learner pursuing a Master's in AI, I'm passionate about leveraging emerging technologies to solve intricate business problems. My track record includes pioneering biometric verification in Colombia's banking sector, optimizing large-scale databases, and leading agile teams to reduce development cycles by 60%.
+
+I thrive in diverse, global environments, having worked across South America and Australia, and am committed to fostering innovation, knowledge sharing, and continuous improvement in every project I undertake. My goal is to push the boundaries of what's possible in software engineering, creating solutions that drive business growth and technological advancement.
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/juan-carlos-mellizo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
